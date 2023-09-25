@@ -1,0 +1,2 @@
+# ConnectBazaar
+ConnectBaazar is a Web Application which enables the user to create their own advertisements regarding an available stock or a sale available at their shop. The user needs to register and login to create an advertisement and can review the products concerned. It features a map to enhance visual representation of the location of the shop. It is developed using HTML , CSS , JAVASCRIPT , EJS , NodeJs, MongoDB , Express.
